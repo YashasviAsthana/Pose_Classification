@@ -3,7 +3,7 @@ This project is about analyzing the relationship between foot pressure and pose 
 
 This is the final submission of the Term Project (Course 583 Pattern Recognition and Machine Learning - Dr. Yanxi Liu) by Yashasvi Asthana.
 
-Data set has NOT been provided for public use as of now
+Data set is now AVAILABLE on the LPAC website: http://vision.cse.psu.edu/research/dynamicsFromKinematics/index.shtml
 
 
 - clustering.m has the first task of clustering the poses (all the code used throughout the project for evaluation purposes is also present but commented out)
